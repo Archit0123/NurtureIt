@@ -1,0 +1,5 @@
+uploads/
+model_training/
+Dataset/
+.idea/
+__pycache__/
